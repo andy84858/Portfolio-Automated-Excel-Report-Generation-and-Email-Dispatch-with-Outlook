@@ -1,6 +1,7 @@
 # Portfolio-Automated-Excel-Report-Generation-and-Email-Dispatch-with-Outlook
 
-## Purpose: Generates Excel reports, locks them, and sends via Outlook emails.
+## Purpose: 
+Generates Excel reports, locks them, and sends via Outlook emails.
 
 ## Description:
 The code automates Excel report generation and email dispatch using OpenPyxl, PyWin32, and Outlook. 
